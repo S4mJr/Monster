@@ -1,6 +1,6 @@
 # Monster - Client / Server communication with command execution
 # Version: 1.0
-# By: Sam Junior | Gh0stm4n
+# By: Sam Junior | Nightm4RE
 # Date: 15 / June / 2k18
 
 
