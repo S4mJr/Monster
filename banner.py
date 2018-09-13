@@ -5,5 +5,5 @@ ban = '''   ____ ___  ____  ____  _____/ /|__  /_____
 
 client/server communication with cmd Exec
 	 [*] backdoor listener [*]
-       Universal Hacking | Sam Junior
+            C0d3r: Sam Junior
 '''
